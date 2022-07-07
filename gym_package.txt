@@ -1,0 +1,28 @@
+ One Year Couple -------12th months --------14000
+10
+disha
+ Half Yearly --------------6 months ------------6000
+11
+jessi
+ One Year Couple -------12th months --------14000
+12
+jeba
+ One Year Single --------12th months -------- 8000 
+2332
+nila
+ Half Yearly --------------6 months ------------6000
+20
+jidni
+ One Year Single --------12th months -------- 8000 
+ID:23
+Name :j
+ One Year Couple -------12th months --------14000
+ID : 91
+Name : jidni
+ One Year Single --------12th months -------- 8000 
+ID : 05
+Name : tina
+ One Year Single --------12th months -------- 8000 
+ID : 07
+Name : mina
+ Half Yearly --------------6 months ------------6000
